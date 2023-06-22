@@ -15,5 +15,5 @@ jobs:
       shield: '["corne_left","corne_right"]'
       alphas: '["QWERTY"]'
       clipboard: '["Mac"]'
-      kconfig: '["CONFIG_ZMK_DISPLAY=y\\nCONFIG_ZMK_SLEEP=y"]'
+      kconfig: '["CONFIG_ZMK_DISPLAY=y\\nCONFIG_ZMK_SLEEP=y\\nCONFIG_ZMK_KSCAN_DEBOUNCE_PRESS_MS=10\\CONFIG_ZMK_KSCAN_DEBOUNCE_RELEASE_MS=10"]'
       nav: '["vi"]'
