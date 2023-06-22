@@ -15,7 +15,7 @@
 
 // !shroom
 // #define U_TAPPING_TERM 200
-#define U_TAPPING_TERM 150
+#define U_TAPPING_TERM 170
 
 #include "miryoku_clipboard.h"
 
